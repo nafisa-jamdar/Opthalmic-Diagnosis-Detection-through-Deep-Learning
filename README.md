@@ -1,5 +1,7 @@
 # Opthalmic-Diagnosis-Detection-through-Deep-Learning
 
+<img width="331" alt="Image" src="https://github.com/user-attachments/assets/5094f002-f7df-4d15-8b73-f1b694b958f8" />
+
 ## **Overview**  
 This project leverages deep learning to detect ophthalmic diseases such as cataract, diabetic retinopathy, and glaucoma using medical images. The model is trained using convolutional neural networks (CNNs) to classify eye conditions and assist in early diagnosis.  
 
