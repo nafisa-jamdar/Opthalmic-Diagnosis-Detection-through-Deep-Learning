@@ -1,4 +1,4 @@
-# Opthalmic-Diagnosis-Detection-through-Deep-Learning
+# Ophthalmic-Diagnosis-Detection-through-Deep-Learning
 
 <img width="331" alt="Image" src="https://github.com/user-attachments/assets/5094f002-f7df-4d15-8b73-f1b694b958f8" />
 
